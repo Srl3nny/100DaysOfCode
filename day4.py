@@ -1,5 +1,6 @@
 import sys, random
 #these are the representation for the hands, i did my best :)
+#rock paper scissor game
 rock = '''
 -------------
  | | |       (---)
